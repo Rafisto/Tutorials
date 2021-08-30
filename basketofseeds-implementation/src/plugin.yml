@@ -1,0 +1,5 @@
+main: io.example.bos.Basketofseeds
+name: ImprovedBasketOfSeeds
+version: 1.0
+api-version: 1.17
+description: Basket of seeds expanding crops in every direction
