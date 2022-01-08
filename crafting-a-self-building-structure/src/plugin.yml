@@ -1,0 +1,6 @@
+main: io.example.structures.structures
+name: Self-building-structures
+version: 1.0
+api-version: 1.17
+description: Craft an block that will create an entire structure on placement.
+depend: [WorldEdit]
