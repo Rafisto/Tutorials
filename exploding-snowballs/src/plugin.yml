@@ -1,0 +1,5 @@
+main: io.example.explodingsnowballs.explodingsnowballs
+name: ExplodingSnowballs
+version: 1.0
+api-version: 1.17
+description: SNOWBALLS EXPLODE
