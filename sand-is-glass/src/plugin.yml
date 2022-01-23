@@ -1,0 +1,5 @@
+main: io.example.sandisglass.sandisglass
+name: SandIsGlass
+version: 1.0
+api-version: 1.17
+description: Whenever a player is above the sand it changes to glass.
