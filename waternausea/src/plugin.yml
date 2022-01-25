@@ -1,0 +1,5 @@
+main: io.example.waternausea.waternausea
+name: WaterNausea
+version: 1.0
+api-version: 1.17
+description: Water is polluted
