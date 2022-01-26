@@ -1,0 +1,5 @@
+main: io.example.autobridge.autobridge
+name: AutoBridge
+version: 1.0
+api-version: 1.17
+description: Move in any direction to create a bridge using bridge blocks
